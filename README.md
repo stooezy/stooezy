@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/stooezy"><img src="https://api.daily.dev/devcards/c203c6d4c63a4b9a884e0f3304de0444.png?r=ykv" width="400" alt="Yoga Permana's Dev Card"/></a>
 
 <!--
 **stooezy/stooezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
